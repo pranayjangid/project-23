@@ -54,7 +54,7 @@ function draw() {
   packageSprite.x= packageBody.position.x 
   packageSprite.y= packageBody.position.y 
 
-  line1 = createSprite(400,650,400,15);
+  line1 = createSprite(400,6664,400,15);
   line1.shapeColoris = red
 
   line2 = createSprite(200,550,15,200);
